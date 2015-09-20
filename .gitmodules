@@ -1,3 +1,21 @@
 [submodule "nuttx"]
 	path = nuttx
 	url = https://bitbucket.org/patacongo/nuttx.git
+[submodule "misc/uClibc++"]
+	path = misc/uClibc++
+	url = https://bitbucket.org/nuttx/uclibc/
+[submodule "misc/buildroot"]
+	path = misc/buildroot
+	url = https://bitbucket.org/nuttx/buildroot/
+[submodule "misc/tools"]
+	path = misc/tools
+	url = https://bitbucket.org/nuttx/tools/
+[submodule "misc/drivers"]
+	path = misc/drivers
+	url = https://bitbucket.org/nuttx/drivers/
+[submodule "misc/pascal"]
+	path = misc/pascal
+	url = https://bitbucket.org/nuttx/pascal/
+[submodule "apps"]
+	path = apps
+	url = https://bitbucket.org/nuttx/apps/
