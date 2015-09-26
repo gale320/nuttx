@@ -19,3 +19,6 @@
 [submodule "apps"]
 	path = apps
 	url = https://bitbucket.org/nuttx/apps/
+[submodule "nxwidgets"]
+	path = nxwidgets
+	url = https://bitbucket.org/nuttx/nxwidgets.git
